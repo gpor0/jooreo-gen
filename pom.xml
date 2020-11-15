@@ -17,7 +17,7 @@
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
         <project.reporting.outputEncoding>UTF-8</project.reporting.outputEncoding>
         <surefire-plugin.version>2.22.1</surefire-plugin.version>
-        <org.jooq.version>3.14.3</org.jooq.version>
+        <org.jooq.version>3.13.6</org.jooq.version>
         <surefire-plugin.version>2.22.1</surefire-plugin.version>
     </properties>
 
