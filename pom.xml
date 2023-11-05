@@ -6,7 +6,7 @@
     <modelVersion>4.0.0</modelVersion>
     <artifactId>jooreo-gen</artifactId>
     <groupId>com.github.gpor0</groupId>
-    <version>1.0.0-rc.1</version>
+    <version>1.0.0</version>
     <name>JOOReo-gen</name>
     <description>Jooreo generator library</description>
     <url>https://github.com/gpor0/jooreo-gen</url>
